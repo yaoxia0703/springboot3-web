@@ -1,0 +1,36 @@
+server:
+  port: 8080
+#user:
+#  id: "1562"
+#  name: "高様"
+#  age: 18
+#  account-map:
+#    a1:
+#      id:           accountID1
+#      account-name: account1
+#      password:     1
+#    a2:
+#      id: accountID2
+#      account-name: account2
+#      password: 2
+#  pig:
+#    id: pigID
+#    name: pig1
+#
+#  dogs:
+#    - id: dogID1
+#      name: dog1
+#    - id: dogID2
+#      name: dog2
+#
+#logging:
+#  pattern:
+#    dateformat: yyyy-MM-dd HH:mm:ss.SSS
+#  level:
+#    root: debug
+
+
+
+
+
+

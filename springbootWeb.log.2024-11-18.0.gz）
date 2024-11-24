@@ -1,0 +1,156 @@
+2024-11-18 22:59:21.831  INFO 27488 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 27488 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 22:59:21.836  INFO 27488 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 22:59:22.923  INFO 27488 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 22:59:22.945  INFO 27488 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 22:59:22.945  INFO 27488 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 22:59:23.019  INFO 27488 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 22:59:23.019  INFO 27488 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1139 ms
+2024-11-18 22:59:23.139  INFO 27488 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 22:59:23.427  INFO 27488 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 22:59:23.435  INFO 27488 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 2.104 seconds (process running for 2.718)
+2024-11-18 22:59:37.176  INFO 27488 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 22:59:37.177  INFO 27488 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 22:59:37.178  INFO 27488 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:03:29.906  INFO 2412 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 2412 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:03:29.906  INFO 2412 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:03:30.788  INFO 2412 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:03:30.803  INFO 2412 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:03:30.803  INFO 2412 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:03:30.850  INFO 2412 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:03:30.850  INFO 2412 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 898 ms
+2024-11-18 23:03:30.929  INFO 2412 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:03:31.148  INFO 2412 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:03:31.148  INFO 2412 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.596 seconds (process running for 1.846)
+2024-11-18 23:03:38.239  INFO 2412 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:03:38.239  INFO 2412 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:03:38.240  INFO 2412 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:14:12.547  INFO 3520 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 3520 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:14:12.547  INFO 3520 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:14:13.358  INFO 3520 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:14:13.373  INFO 3520 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:14:13.373  INFO 3520 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:14:13.421  INFO 3520 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:14:13.421  INFO 3520 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 839 ms
+2024-11-18 23:14:13.497  INFO 3520 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:14:13.701  INFO 3520 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:14:13.701  INFO 3520 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.526 seconds (process running for 1.763)
+2024-11-18 23:14:22.406  INFO 3520 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:14:22.406  INFO 3520 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:14:22.407  INFO 3520 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:14:45.154  INFO 14660 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 14660 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:14:45.158  INFO 14660 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:14:45.981  INFO 14660 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:14:45.989  INFO 14660 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:14:45.989  INFO 14660 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:14:46.052  INFO 14660 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:14:46.052  INFO 14660 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 857 ms
+2024-11-18 23:14:46.131  INFO 14660 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:14:46.334  INFO 14660 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:14:46.350  INFO 14660 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.546 seconds (process running for 1.793)
+2024-11-18 23:14:53.204  INFO 14660 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:14:53.204  INFO 14660 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:14:53.205  INFO 14660 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:15:16.503  INFO 5248 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 5248 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:15:16.504  INFO 5248 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:15:17.298  INFO 5248 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:15:17.310  INFO 5248 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:15:17.311  INFO 5248 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:15:17.358  INFO 5248 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:15:17.358  INFO 5248 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 816 ms
+2024-11-18 23:15:17.434  INFO 5248 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:15:17.660  INFO 5248 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:15:17.666  INFO 5248 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.521 seconds (process running for 1.772)
+2024-11-18 23:15:19.446  INFO 5248 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:15:19.446  INFO 5248 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:15:19.447  INFO 5248 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:18:24.409  INFO 22160 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 22160 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:18:24.409  INFO 22160 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:18:25.265  INFO 22160 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:18:25.280  INFO 22160 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:18:25.280  INFO 22160 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:18:25.327  INFO 22160 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:18:25.327  INFO 22160 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 871 ms
+2024-11-18 23:18:25.422  INFO 22160 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:18:25.642  INFO 22160 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:18:25.642  INFO 22160 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.602 seconds (process running for 1.854)
+2024-11-18 23:18:30.313  INFO 22160 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:18:30.313  INFO 22160 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:18:30.314  INFO 22160 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:18:42.900  INFO 4212 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 4212 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:18:42.900  INFO 4212 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:18:43.734  INFO 4212 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:18:43.749  INFO 4212 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:18:43.749  INFO 4212 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:18:43.796  INFO 4212 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:18:43.796  INFO 4212 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 866 ms
+2024-11-18 23:18:43.890  INFO 4212 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:18:44.704  INFO 4212 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:18:44.710  INFO 4212 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 2.178 seconds (process running for 2.41)
+2024-11-18 23:18:45.294  INFO 4212 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:18:45.294  INFO 4212 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:18:45.295  INFO 4212 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:19:02.549  INFO 27616 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 27616 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:19:02.549  INFO 27616 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:19:03.411  INFO 27616 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:19:03.411  INFO 27616 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:19:03.411  INFO 27616 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:19:03.480  INFO 27616 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:19:03.480  INFO 27616 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 890 ms
+2024-11-18 23:19:03.567  INFO 27616 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:19:03.791  INFO 27616 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:19:03.798  INFO 27616 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.635 seconds (process running for 1.881)
+2024-11-18 23:19:07.323  INFO 27616 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:19:07.323  INFO 27616 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:19:07.323  INFO 27616 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-11-18 23:19:24.417  INFO 7732 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 7732 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:19:24.417  INFO 7732 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:19:25.266  INFO 7732 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:19:25.282  INFO 7732 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:19:25.282  INFO 7732 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:19:25.328  INFO 7732 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:19:25.328  INFO 7732 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 866 ms
+2024-11-18 23:19:25.423  INFO 7732 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:19:25.658  INFO 7732 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:19:25.680  INFO 7732 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.63 seconds (process running for 1.872)
+2024-11-18 23:19:34.570  INFO 7732 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:19:34.570  INFO 7732 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:19:34.570  INFO 7732 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-11-18 23:19:45.110  INFO 15728 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 15728 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:19:45.118  INFO 15728 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:19:45.956  INFO 15728 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:19:45.971  INFO 15728 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:19:45.971  INFO 15728 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:19:46.019  INFO 15728 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:19:46.019  INFO 15728 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 870 ms
+2024-11-18 23:19:46.097  INFO 15728 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:19:46.329  INFO 15728 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:19:46.329  INFO 15728 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.57 seconds (process running for 1.815)
+2024-11-18 23:19:50.189  INFO 15728 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:19:50.189  INFO 15728 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:19:50.189  INFO 15728 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-11-18 23:20:22.879  INFO 27548 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 27548 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:20:22.881  INFO 27548 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:20:23.927  INFO 27548 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:20:23.937  INFO 27548 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:20:23.938  INFO 27548 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:20:23.985  INFO 27548 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:20:23.985  INFO 27548 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1061 ms
+2024-11-18 23:20:24.076  INFO 27548 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:20:24.282  INFO 27548 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:20:24.290  INFO 27548 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.825 seconds (process running for 2.115)
+2024-11-18 23:21:02.259  INFO 27548 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:21:02.259  INFO 27548 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:21:02.260  INFO 27548 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-11-18 23:31:54.646  INFO 22264 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Starting Springboot3WebApplication using Java 17.0.12 with PID 22264 (C:\Users\yx186\IdeaProjects\spring-boot-3\springboot3-web\target\classes started by yx186 in C:\Users\yx186\IdeaProjects\spring-boot-3)
+2024-11-18 23:31:54.711  INFO 22264 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-11-18 23:31:55.513  INFO 22264 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-11-18 23:31:55.525  INFO 22264 --- [springboot3-web] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-11-18 23:31:55.525  INFO 22264 --- [springboot3-web] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-18 23:31:55.583  INFO 22264 --- [springboot3-web] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-11-18 23:31:55.583  INFO 22264 --- [springboot3-web] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 829 ms
+2024-11-18 23:31:55.659  INFO 22264 --- [springboot3-web] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-11-18 23:31:55.882  INFO 22264 --- [springboot3-web] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-11-18 23:31:55.890  INFO 22264 --- [springboot3-web] [main] c.s.w.s.Springboot3WebApplication        : Started Springboot3WebApplication in 1.678 seconds (process running for 1.927)
+2024-11-18 23:31:59.099  INFO 22264 --- [springboot3-web] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-18 23:31:59.099  INFO 22264 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-11-18 23:31:59.100  INFO 22264 --- [springboot3-web] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
